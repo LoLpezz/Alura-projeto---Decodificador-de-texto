@@ -4,7 +4,7 @@ Este é o meu projeto decodificador de texto que está finalizado, falta alguns 
 
 - HTML
 - CSS / Bootstrap para a responsividade
-- JavaScript para o botão back to top / voltar ao topo
+- JavaScript para realizar a função de decodificar.
 
 Abaixo segue uma imagem de como está e também o link para acessar.
 
